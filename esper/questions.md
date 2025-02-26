@@ -1,0 +1,1 @@
+1. Create a Prototype of array, so it accepts an array of a input and returns an randomized version of the array.
